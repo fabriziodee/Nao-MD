@@ -98,8 +98,8 @@ let name = conn.getName(m.sender)
     sourceUrl: sgc
 }
 } })*/
-let nowaa = '0'
-let nogww = '6281387307198'
+let nowaa = '393518398856'
+let nogww = '393518398856'
 let nogwww = `@${nomorown1.split`@`[0]}`
 let nowa = `${nowaa.split`@`[0]}@s.whatsapp.net`
 let nogw = `${nogww.split`@`[0]}@s.whatsapp.net`
